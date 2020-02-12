@@ -1,0 +1,1 @@
+This is Trung Kien's first git project!
